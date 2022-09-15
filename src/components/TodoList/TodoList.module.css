@@ -1,0 +1,20 @@
+.btn {
+    margin-left: 12px;
+}
+.btn1 {
+    margin-left: auto
+}
+.listItems {
+    display: flex;
+    flex-direction: row;
+    margin-top: 24px;
+}
+.listItems:hover {
+    background: #ff9797;
+    border-radius: 6px;
+    padding: 6px;
+}
+.rdy {
+    color:gray;
+    text-decoration: line-through;
+}

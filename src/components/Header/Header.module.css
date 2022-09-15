@@ -1,0 +1,9 @@
+.head {
+    height: 80px;
+    font-size: 24px;
+    color:aliceblue;
+    background: #29bd55;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
